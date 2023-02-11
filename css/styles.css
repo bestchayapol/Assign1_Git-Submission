@@ -6,6 +6,7 @@ body {
 }
 .myLink {
     text-decoration: none;
+    color: rgb(202, 191, 191);
 }
 .myLink:hover {
     text-decoration: underline;
